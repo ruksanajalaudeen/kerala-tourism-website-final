@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.mymargin{
+    margin:10px;
+    }
+body{
+       background-size: cover;
+    }
+.cont{
+    border: 2px solid white;
+    width:350px;
+    height:30em;
+    background-color: whitesmoke;
+    padding: 3px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.cont col-lg-6 mymargin button{
+    width:50%;
+    size:10;
+}
+.cont col-lg-6 mymargin input{
+    width:32%;
+    size: 27;
+
+}
+.col-lg-6 mymargin calu{
+    width:50%;
+}

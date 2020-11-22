@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+}
+.img{
+    padding-left:-1%;
+    padding-top: -1%;
+}
+.alaimg{
+    width:100%;
+}
+.box{
+     width:30em;
+     float:left;
+     height:37em;
+     border: 2px solid;
+  border-radius: 8px;
+  border-color:white;
+  box-shadow: 10px 25px 50px -5px gray; 
+ }
+.cols{
+    width:3em;
+}
+.rows{
+    height:3em;
+}
+.alaimger{
+width:100%;
+height:25em;
+}
+
+.formclass{
+    background-color: tomato;
+}
+.btnclass{
+    background-color:#00ad5f;
+}
+.txt2{
+    font-size: 15px;
+    line-height: 1.4;
+    color: #00ad5f;
+  }
+  .txt1 {
+
+    font-size: 15px;
+    line-height: 1.4;
+    color: #999999;
+  }
+  .txt3 {
+    font-size: 17px;
+    line-height: 1.4;
+    color: #00ad5f;
+    text-transform: uppercase;
+    width:10em;
+  }
